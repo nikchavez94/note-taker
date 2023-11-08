@@ -29,3 +29,4 @@ MIT License
 Rice Tutoring sessions, ChatGPT, Rice Bootcamp Courses and professors 
 
 <img width="774" alt="Screenshot 2023-11-07 at 10 29 32 PM" src="https://github.com/nikchavez94/note-taker/assets/128064997/41d20621-6b26-4eec-ac15-151978f9218a">
+<img width="819" alt="Screenshot 2023-11-07 at 10 31 11 PM" src="https://github.com/nikchavez94/note-taker/assets/128064997/6af57b0e-8cf5-477c-86d0-b7efaa244ba7">
